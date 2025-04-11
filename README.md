@@ -3,7 +3,8 @@
 NOTE: Not a fully functioning app. This serves as placeholders for functionality
 
 
-Login - HealthTech Investor Pro https://page.genspark.site/page/toolu_017VPH6F8zmmuvofURYguZiy/healthtech_investor_pro_fixed_login.html
+Login - HealthTech Investor Pro 
+https://page.genspark.site/page/toolu_017VPH6F8zmmuvofURYguZiy/healthtech_investor_pro_fixed_login.html
 
 HealthTech Investor Pro - Comprehensive Digital Health Investment Platform https://page.genspark.site/page/toolu_013DXBo2nvV18t25oBGUgUus/healthtech_investor_pro_readme.html
 
