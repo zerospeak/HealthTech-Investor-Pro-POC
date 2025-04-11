@@ -1,7 +1,14 @@
 # HealthTech-Investor-Pro-POC
 
+NOTE: Not a fully functioning app. This serves as placeholders for functionality
+
+HealthTech Investor Pro - Comprehensive Digital Health Investment Platform https://page.genspark.site/page/toolu_013DXBo2nvV18t25oBGUgUus/healthtech_investor_pro_readme.html
 
 Fixed Login - HealthTech Investor Pro https://page.genspark.site/page/toolu_017VPH6F8zmmuvofURYguZiy/healthtech_investor_pro_fixed_login.html
+
+HealthTech Investor Pro Architectural Diagrams - https://page.genspark.site/page/toolu_01TnJQUkRYAeJ65AXZesnWjh/healthtech_investor_pro_clean_diagrams.html
+
+HealthTech Investor Pro - Professional Interface Showcase - https://page.genspark.site/page/toolu_01L5XMdn76smBnHbhn69AFqP/healthtech_investor_pro_clean_interfaces.html
 
 Deployment Fix Documentation - https://page.genspark.site/page/toolu_01QqZofi3aubmuFsLmhK1kJx/healthtech_investor_pro_deployment_fix.html
 
