@@ -3,10 +3,7 @@
 # AUDIO DEEP DIVE INTO POC
 
 # https://www.opendrive.com/player/N18yNjUyMTg3NTNfc3RuWVc
- 
-
-# NOTE: Not a fully functioning app. This serves as placeholders for functionality
-
+  
 # What is HealthTech Investor Pro? 
 HealthTech Investor Pro is a
 specialized digital investment platform focused on the digital health
