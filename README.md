@@ -68,8 +68,8 @@ intelligence helps investors stay informed about the industry\'s
 complexities and make more informed investment decisions.
 
 
-# What is Blockchain Portfolio Verification in HealthTech Investor Pro? A
-unique feature of HealthTech Investor Pro is its blockchain portfolio
+# What is Blockchain Portfolio Verification in HealthTech Investor Pro? 
+A unique feature of HealthTech Investor Pro is its blockchain portfolio
 verification system. This utilizes distributed ledger technology to
 create immutable records of all portfolio transactions. By recording
 transactions on a blockchain (currently Ethereum), the platform provides
@@ -103,17 +103,25 @@ automate the process of building, pushing Docker images, and configuring
 the Azure Web App with the correct settings and environment variables,
 ensuring the application is accessible on the intended port.
 
-Login - HealthTech Investor Pro 
+# Login - HealthTech Investor Pro 
 https://page.genspark.site/page/toolu_017VPH6F8zmmuvofURYguZiy/healthtech_investor_pro_fixed_login.html
 
-HealthTech Investor Pro - Comprehensive Digital Health Investment Platform https://page.genspark.site/page/toolu_013DXBo2nvV18t25oBGUgUus/healthtech_investor_pro_readme.html
+
+# HealthTech Investor Pro - Comprehensive Digital Health Investment Platform 
+https://page.genspark.site/page/toolu_013DXBo2nvV18t25oBGUgUus/healthtech_investor_pro_readme.html
 
 
-HealthTech Investor Pro Architectural Diagrams - https://page.genspark.site/page/toolu_01TnJQUkRYAeJ65AXZesnWjh/healthtech_investor_pro_clean_diagrams.html
 
-HealthTech Investor Pro - Professional Interface Showcase - https://page.genspark.site/page/toolu_01L5XMdn76smBnHbhn69AFqP/healthtech_investor_pro_clean_interfaces.html
+# HealthTech Investor Pro Architectural Diagrams 
+https://page.genspark.site/page/toolu_01TnJQUkRYAeJ65AXZesnWjh/healthtech_investor_pro_clean_diagrams.html
 
-Deployment Fix Documentation - https://page.genspark.site/page/toolu_01QqZofi3aubmuFsLmhK1kJx/healthtech_investor_pro_deployment_fix.html
+
+# HealthTech Investor Pro - Professional Interface Showcase
+https://page.genspark.site/page/toolu_01L5XMdn76smBnHbhn69AFqP/healthtech_investor_pro_clean_interfaces.html
+
+
+# Deployment Fix Documentation 
+https://page.genspark.site/page/toolu_01QqZofi3aubmuFsLmhK1kJx/healthtech_investor_pro_deployment_fix.html
 
 🔐 Login Improvements
 The new login experience includes:
